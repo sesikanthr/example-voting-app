@@ -1,5 +1,6 @@
 Example Voting App
 =========
+This is the git change.
 
 Getting started
 ---------------
